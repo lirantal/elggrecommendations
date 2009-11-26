@@ -1,0 +1,27 @@
+v1.2	07/11/2009
+
+	* Fixed displaying icons of users recommending always and never of the
+	  user itself
+	* Fixed languages
+	* Added plugin setting to allow/disallow recommending a user more than once
+
+v1.2	31/10/2009
+
+	* Fixed displaying the friend name in the select box for new recommendations
+	  if you clicked on "Recommend <user>"...
+	* Added configuration options for menu entry
+	* Added widget to profile
+	  
+	  
+	  
+v1.1	13/10/2009
+
+	* Fixed approving/deleting of given recommendation for a user
+	* Fixed showing the 'recommend this user' only if users are friends
+	* Fixed "recommend this user" link text to "recommend <username>" which
+	  is more intuitive
+	* Added recommendations count to main profile and recommendation views
+	* Added german language file
+	* Added river activity information
+	* Added option to withdraw recommendation if recommended user hasn't yet
+	  approved it
