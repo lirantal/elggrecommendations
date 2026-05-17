@@ -6,3 +6,7 @@ Elgg versions upport
 
 
 * This Github project was automatically migrated from Google Code https://code.google.com/p/elggxuserpoints/
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
